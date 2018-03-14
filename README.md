@@ -1,1 +1,1 @@
-# Scala-Coding-Excercises
+## Play with Scala
